@@ -2,7 +2,7 @@
 Shell script for multiple port-forwarding connections
 
 # Pre-requisites
-First you will have to configure the `config`:
+First you will have to configure the `config` inside the folder `.ssh/`:
 
 ```
 Host {HOST_NAME}
