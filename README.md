@@ -1,4 +1,4 @@
-# ssh-script
+# Port-Forwarding bash script
 Shell script for multiple port-forwarding connections
 
 # Pre-requisites
