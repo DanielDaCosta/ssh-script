@@ -1,5 +1,5 @@
 # Port-Forwarding bash script
-Shell script for multiple port-forwarding connections
+Shell script for multiple port-forwarding connections.
 
 # Pre-requisites
 First you will have to configure the `config` inside the folder `.ssh/`:
